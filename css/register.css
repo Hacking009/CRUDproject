@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    background-image: url(../background/bg.png);
+}
+span{
+    color: lightblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.header{
+    margin-top: -20px;
+    width: 100%;
+    height: 40px;
+    background-color: salmon;
+}
+.header h2{
+    line-height: 40px;
+}
+
+.logo{
+    color: black;
+}
+.h1{
+    margin-left: 40px;
+}
+
+.form{
+    text-align: center;
+    margin-left: -80px;
+    margin-top: 50px;
+}
+.form form ul li label{
+    display: block;
+}
+.login{
+    color: blue;
+}
+.form p{
+    margin-left: 40px;
+}

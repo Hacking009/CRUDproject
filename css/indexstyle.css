@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    background-image: url(../background/bg.png);
+}
+span{
+    color: lightblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.order{
+    background-color: rgba(240, 248, 255, 0);
+}
+.header{
+    margin-top: -20px;
+    width: 100%;
+    height: 40px;
+    background-color: salmon;
+}
+.header h2{
+    line-height: 40px;
+}
+
+
+.content{
+    padding-left: 13px;
+}
+.content table{
+    width: 98.5%;
+    margin-top: 10px;
+    text-align: center;
+    margin-right: 0px;
+}
+.content table tr td{
+    background-color: lightblue;
+}
+
+form button{
+    margin-top: 10px;
+    width: 120px;
+    border-color: lightsteelblue;
+    border-radius: 10px;
+    background-color:lightcoral;
+    color: white;
+    transition: 0.5s ease;
+}
+form button:hover{
+    background-color: white;
+    color: black;
+    border-color: aquamarine;
+}
+
